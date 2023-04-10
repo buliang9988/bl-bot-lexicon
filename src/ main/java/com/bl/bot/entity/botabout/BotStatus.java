@@ -1,4 +1,4 @@
-package com.bl.bot.entity;
+package com.bl.bot.entity.botabout;
 
 /**
  * @ClassName BotStatus

@@ -1,7 +1,7 @@
 package com.bl.bot.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.bl.bot.entity.Reply;
+import com.bl.bot.entity.reply.Reply;
 import org.apache.ibatis.annotations.Mapper;
 
 /**

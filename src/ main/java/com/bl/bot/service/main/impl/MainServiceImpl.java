@@ -14,8 +14,13 @@ import org.springframework.stereotype.Service;
 public class MainServiceImpl implements MainService {
     @Override
     public String reply(String str) {
-        //现在是诗人艾
-        //判断时态
+        //判断时态 通过时态来走有时态和没时态的分支
+        if(true){
+
+        }else {
+
+        }
+
 
         //判断对方心情
 
